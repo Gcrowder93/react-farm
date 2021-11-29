@@ -1,0 +1,13 @@
+body {
+  --color1: #2e3436;
+  --color3: #fbe85d;
+  --color2: #edb6a3;
+  --color4: #8aa2a9;
+  --color5: #6e9727;
+  --header-height: 40px;
+  font-family: 'Fredoka One', cursive;
+}
+
+body {
+  background-color: var(--color1);
+}
